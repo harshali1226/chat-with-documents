@@ -1,9 +1,6 @@
-# chat-with-documents
-An intelligent chatbot designed to retrieve and summarize information directly from your documents.
-
 # 📄 Chat-with-Documents 🤖
 
-A chatbot application that retrieves information from uploaded PDF documents using LLMs. Built using **LangChain**, **Streamlit**, and **Google PaLM 2**.
+A chatbot application that retrieves information from uploaded PDF documents using LLMs. Built using **LangChain**, **Streamlit**, and **OpenAI**.
 
 ---
 
