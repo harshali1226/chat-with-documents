@@ -25,7 +25,7 @@ conda activate genai
 pip install -r requirements.txt
 
 🔐 Step 3: Set Up Environment Variables
-GOOGLE_API_KEY="xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+OPENAI_API_KEY="xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 ▶️ Step 4: Run the App
 streamlit run app.py
