@@ -4,4 +4,16 @@ PyPDF2
 langchain
 faiss-cpu
 streamlit
+openai
+langchain-openai
+langchain-community
+pdfplumber
+ipykernel
+pypdf
+langchain-text-splitters
+langchain_huggingface
+langchain_chroma
+pandas
+langchain-groq
+huggingface_hub
 -e .
